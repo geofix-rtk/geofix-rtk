@@ -1,0 +1,9 @@
+{
+ "code": 1107,
+ "name": "1.10.7",
+ "size": 6532915,
+ "sha256": "b424b7804e27e9c24ac17666b6b1980a0de764b16ba1bdaaf759939d169bd42d",
+ "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.7/GeoFixRTK-v1.10.7.apk",
+ "notes": "Capas Satélite/Relieve/Sin mapa; flecha replantea cualquier punto de la línea; Bluetooth y NTRIP se reconectan solos; actualización desde la nube.",
+ "sig": "3044022058357887cece0588c39eaa0b682bffa38a89137cd10c0edc81f1bdb79474b22702205b580888cb31e2fefa0836b88890c62a1f3ff106615ebf054362eb83c70a2ba6"
+}
