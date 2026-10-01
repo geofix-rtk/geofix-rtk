@@ -1,9 +1,9 @@
 {
- "code": 1107,
- "name": "1.10.7",
- "size": 6532915,
- "sha256": "b424b7804e27e9c24ac17666b6b1980a0de764b16ba1bdaaf759939d169bd42d",
- "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.7/GeoFixRTK-v1.10.7.apk",
- "notes": "Capas Satélite/Relieve/Sin mapa; flecha replantea cualquier punto de la línea; Bluetooth y NTRIP se reconectan solos; actualización desde la nube.",
- "sig": "3044022058357887cece0588c39eaa0b682bffa38a89137cd10c0edc81f1bdb79474b22702205b580888cb31e2fefa0836b88890c62a1f3ff106615ebf054362eb83c70a2ba6"
+ "code": 1109,
+ "name": "1.10.9",
+ "size": 6546056,
+ "sha256": "2b4a432f64ed357eff3264ef34c1f4ae92fab55f66dfc201f12505c49ea648f3",
+ "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.9/GeoFixRTK-v1.10.9.apk",
+ "notes": "Nueva marca EMLID (Reach): Rover, Base, Estático y PPK desde GeoFix. Puntos rojos con nombres más grandes. NTRIP se desconecta al cortar el Bluetooth.",
+ "sig": "30450221009b2a299957d56c7b7d63250b54163d29f6a59dd77bddaf02fff70b2ea3a61aee02203150c0071058f50d82bfe9b78fd8418ac9c3a782ab177dc56b23794ce5426b22"
 }
