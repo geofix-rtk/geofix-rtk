@@ -1,9 +1,1 @@
-{
- "code": 1109,
- "name": "1.10.9",
- "size": 6546056,
- "sha256": "2b4a432f64ed357eff3264ef34c1f4ae92fab55f66dfc201f12505c49ea648f3",
- "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.9/GeoFixRTK-v1.10.9.apk",
- "notes": "Nueva marca EMLID (Reach): Rover, Base, Estático y PPK desde GeoFix. Puntos rojos con nombres más grandes. NTRIP se desconecta al cortar el Bluetooth.",
- "sig": "30450221009b2a299957d56c7b7d63250b54163d29f6a59dd77bddaf02fff70b2ea3a61aee02203150c0071058f50d82bfe9b78fd8418ac9c3a782ab177dc56b23794ce5426b22"
-}
+{"code":1116,"name":"1.10.16","size":6562252,"sha256":"da60c0f16118dabb4a286f6aa1b5b30ed526acad516bb2bee3128b9560a45df2","url":"https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.16/GeoFixRTK-v1.10.16.apk","notes":"NTRIP se reconecta solo si se corta (solo para con Desconectar). Puntos: exportar CSV completo y reportes HTML/DAT de solo lectura con código de verificación. Puntos rojos y nombres más chicos en Levantamiento, Replanteo y CAD. Base/Rover automático (se quitó Modo de inicio).","sig":"3046022100968000eae4134a4fa5a54cbc301782fc344896802606634cec7261ddd96a9f5d022100f1c273bea04309061765b3e6bdbad0da78546cfbd852c53b83100f028fc46cd3"}
