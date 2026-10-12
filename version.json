@@ -1,1 +1,9 @@
-{"code":1124,"name":"1.10.24","size":6968092,"sha256":"060eb5f6f070272e6a2791b55d446dab45d56b226205cc34b8aa23cfa6f15f5b","url":"https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.24/GeoFixRTK-v1.10.24.apk","notes":"Pantalla de inicio más simple: solo el logo de Taca (se salta tocando la pantalla). Emlid Reach: el Bluetooth ya no se desconecta (canal seguro primero). Zona UTM por defecto según el proyecto o la última posición (SIRGAS 2000 y otros sistemas fuera del Perú).","sig":"3045022035deb39843d8035da3c1d6a8fb9728a86bcd2577523e4dddf297938a751d2800022100cd2fdfdedcd65e2029c0c7232337f680ef999690185ce0d5830908e551237c46"}
+{
+ "code": 1125,
+ "name": "1.10.25",
+ "size": 6970744,
+ "sha256": "770875dca5b08626f5dc54d3364a3073125ec04479cbc6af71548e92a2836db5",
+ "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.25/GeoFixRTK-v1.10.25.apk",
+ "notes": "Base: altura de antena en los tres modos (bastón + antena del equipo, 142.4 mm por defecto). Survey-in por defecto 60 s y 5 m. Mensajes RTCM3 en una lista plegable. Opción «Guardar punto base»: al terminar el promedio (Survey-in o Pos. actual) la posición se guarda en la lista de puntos con código BASE.",
+ "sig": "3044022024ea750b9a650a7459556b225105e60a1db751a9a24360f103a981de4a95ed4702207ec93ff2c7efa3f1a0b298a78cc17a5db7b30efacc7b11eec78ad407bc7a5626"
+}
