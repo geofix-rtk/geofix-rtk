@@ -1,9 +1,9 @@
 {
- "code": 1125,
- "name": "1.10.25",
- "size": 6970744,
- "sha256": "770875dca5b08626f5dc54d3364a3073125ec04479cbc6af71548e92a2836db5",
- "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.25/GeoFixRTK-v1.10.25.apk",
- "notes": "Base: altura de antena en los tres modos (bastón + antena del equipo, 142.4 mm por defecto). Survey-in por defecto 60 s y 5 m. Mensajes RTCM3 en una lista plegable. Opción «Guardar punto base»: al terminar el promedio (Survey-in o Pos. actual) la posición se guarda en la lista de puntos con código BASE.",
- "sig": "3044022024ea750b9a650a7459556b225105e60a1db751a9a24360f103a981de4a95ed4702207ec93ff2c7efa3f1a0b298a78cc17a5db7b30efacc7b11eec78ad407bc7a5626"
+ "code": 1126,
+ "name": "1.10.26",
+ "size": 6971084,
+ "sha256": "465ae687f886f4349d4983102caa9994404fd468ffb4d3d4084f63f0005950f0",
+ "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.26/GeoFixRTK-v1.10.26.apk",
+ "notes": "Base: dos modos de arranque, «Coord. conocidas» y «Encuesta» (antes Survey-in); se quita «Pos. actual». El avance de la encuesta (tiempo, precisión y estado) se ve arriba, en una tarjeta compacta. Pantalla más limpia en Radio interna.",
+ "sig": "3045022100e07b890c8e81d7ab4f3c5a512c499c2c3681676216b7a433351bc658aece39a902207ce28ce950ed8bab8bb5561edfa73ff79b6701d4b4910c3c94d84edc74c466a5"
 }
