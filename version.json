@@ -1,9 +1,9 @@
 {
- "code": 1126,
- "name": "1.10.26",
- "size": 6971084,
- "sha256": "465ae687f886f4349d4983102caa9994404fd468ffb4d3d4084f63f0005950f0",
- "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.26/GeoFixRTK-v1.10.26.apk",
- "notes": "Base: dos modos de arranque, «Coord. conocidas» y «Encuesta» (antes Survey-in); se quita «Pos. actual». El avance de la encuesta (tiempo, precisión y estado) se ve arriba, en una tarjeta compacta. Pantalla más limpia en Radio interna.",
- "sig": "3045022100e07b890c8e81d7ab4f3c5a512c499c2c3681676216b7a433351bc658aece39a902207ce28ce950ed8bab8bb5561edfa73ff79b6701d4b4910c3c94d84edc74c466a5"
+ "code": 1127,
+ "name": "1.10.27",
+ "size": 6973092,
+ "sha256": "624b28cd613ae037b7f9f55243bb37e6c64f55cda2b16068c4e813ea9b3fe989",
+ "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.27/GeoFixRTK-v1.10.27.apk",
+ "notes": "Estático y PPK: la grabación se guarda sola (carpetas TBC y EMLID) si el equipo se apaga, si sales de la pantalla o si se cierra la app. Levantamiento: lista de códigos guardados para elegirlos sin escribir.",
+ "sig": "304602210098f87052a5741d6573429f14d1e0ccd3fe9d039d9e70b06510d25d0719b5990c022100a403f04e29dbc273e70e325a7c6bc05f9f2b5e1fe8d51aff8737ca1e874ea6d9"
 }
