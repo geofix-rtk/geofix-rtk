@@ -1,9 +1,9 @@
 {
- "code": 1127,
- "name": "1.10.27",
- "size": 6973092,
- "sha256": "624b28cd613ae037b7f9f55243bb37e6c64f55cda2b16068c4e813ea9b3fe989",
- "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.27/GeoFixRTK-v1.10.27.apk",
- "notes": "Estático y PPK: la grabación se guarda sola (carpetas TBC y EMLID) si el equipo se apaga, si sales de la pantalla o si se cierra la app. Levantamiento: lista de códigos guardados para elegirlos sin escribir.",
- "sig": "304602210098f87052a5741d6573429f14d1e0ccd3fe9d039d9e70b06510d25d0719b5990c022100a403f04e29dbc273e70e325a7c6bc05f9f2b5e1fe8d51aff8737ca1e874ea6d9"
+ "code": 1128,
+ "name": "1.10.28",
+ "size": 6973512,
+ "sha256": "453ff320da2ad6a07d1d6c372aed0292cff5f40e2e4c6333897445f66a9968b9",
+ "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.28/GeoFixRTK-v1.10.28.apk",
+ "notes": "Base › Coord. conocidas: al elegir un punto con cota (BM), la altura elipsoidal se calcula sola con el geoide del proyecto; sin geoide se usa la misma cota.",
+ "sig": "304502200c56d5305495eda2d760a82e8bcee08c381b8f06ac5fc4a5129c92c593728e93022100ba24c4336c5a1cc6e45e9bf082f0a5f9f9d9dce7a822d09946f5db1613ba8794"
 }
