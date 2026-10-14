@@ -1,9 +1,9 @@
 {
- "code": 1128,
- "name": "1.10.28",
- "size": 6973512,
- "sha256": "453ff320da2ad6a07d1d6c372aed0292cff5f40e2e4c6333897445f66a9968b9",
- "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.28/GeoFixRTK-v1.10.28.apk",
- "notes": "Base › Coord. conocidas: al elegir un punto con cota (BM), la altura elipsoidal se calcula sola con el geoide del proyecto; sin geoide se usa la misma cota.",
- "sig": "304502200c56d5305495eda2d760a82e8bcee08c381b8f06ac5fc4a5129c92c593728e93022100ba24c4336c5a1cc6e45e9bf082f0a5f9f9d9dce7a822d09946f5db1613ba8794"
+ "code": 1129,
+ "name": "1.10.29",
+ "size": 6974168,
+ "sha256": "1ce0736fa6bc50e18fd726f9b4eb000d69d7c4cfa57029b73185ae48db3bb12c",
+ "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.29/GeoFixRTK-v1.10.29.apk",
+ "notes": "Con la placa trabajando como base, la barra muestra «BASE» y las coordenadas E, N, Z del punto de la base (antes decía SIN FIX). Pantalla Base sin avisos.",
+ "sig": "3044022034d93b840536125828ffa33f28ba9eec5b0616977a5372f3223ad8a5f8e631fa02206deec42161c70e63237b45823723d40ce7573430767f6eaeb41e9cec3828aa94"
 }
