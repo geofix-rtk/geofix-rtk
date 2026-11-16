@@ -1,9 +1,9 @@
 {
- "code": 1129,
- "name": "1.10.29",
- "size": 6974168,
- "sha256": "1ce0736fa6bc50e18fd726f9b4eb000d69d7c4cfa57029b73185ae48db3bb12c",
- "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v1.10.29/GeoFixRTK-v1.10.29.apk",
- "notes": "Con la placa trabajando como base, la barra muestra «BASE» y las coordenadas E, N, Z del punto de la base (antes decía SIN FIX). Pantalla Base sin avisos.",
- "sig": "3044022034d93b840536125828ffa33f28ba9eec5b0616977a5372f3223ad8a5f8e631fa02206deec42161c70e63237b45823723d40ce7573430767f6eaeb41e9cec3828aa94"
+ "code": 2001,
+ "name": "2.00.00",
+ "size": 6980624,
+ "sha256": "db09d340dd826475f044ed23379613753670d7bfe7f017f862385cfc1a26ab12",
+ "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v2.00.00/GeoFixRTK-v2.00.00.apk",
+ "notes": "Versión 2.00.00: la licencia vuelve sola al reinstalar; al desconectar la base la app sale del modo base; decimales de coordenadas 2/3/4 por proyecto; Replanteo renovado (círculo verde a 2 cm, lista de puntos, tocar un punto); botón «Ver todo»; receptores SOUTH (rover NTRIP).",
+ "sig": "3046022100814667f571926919c9f6d7e733924802c871cfcc0f225db44b61412c2d56cbc4022100f6722137cbefb71b9ee36d5096fee84089641a0cb1709aa3817f43cbe8228de0"
 }
