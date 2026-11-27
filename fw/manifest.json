@@ -1,0 +1,7 @@
+{
+ "F9P": {
+  "ver": "3.1.0",
+  "url": "https://raw.githubusercontent.com/geofix-rtk/geofix-rtk/main/fw/GeoFix_F9P_FW_v3.1.0.gfw",
+  "notas": "Perfil fijo ROVER/BASE al encender (radio 38400, solo RTCM); nombres BaseF9P-/RoverF9P-; repone la radio si una app la cambia."
+ }
+}
