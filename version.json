@@ -1,9 +1,9 @@
 {
- "code": 2001,
- "name": "2.00.00",
- "size": 6980624,
- "sha256": "db09d340dd826475f044ed23379613753670d7bfe7f017f862385cfc1a26ab12",
- "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v2.00.00/GeoFixRTK-v2.00.00.apk",
- "notes": "Versión 2.00.00: la licencia vuelve sola al reinstalar; al desconectar la base la app sale del modo base; decimales de coordenadas 2/3/4 por proyecto; Replanteo renovado (círculo verde a 2 cm, lista de puntos, tocar un punto); botón «Ver todo»; receptores SOUTH (rover NTRIP).",
- "sig": "3046022100814667f571926919c9f6d7e733924802c871cfcc0f225db44b61412c2d56cbc4022100f6722137cbefb71b9ee36d5096fee84089641a0cb1709aa3817f43cbe8228de0"
+ "code": 2030,
+ "name": "2.03.00",
+ "size": 6989984,
+ "sha256": "a87dfda3e224e2dc0c371f1516da95619228e268874a1a4576bdcc44ecf15703",
+ "url": "https://github.com/geofix-rtk/geofix-rtk/releases/download/v2.03.00/GeoFixRTK-v2.03.00.apk",
+ "notes": "Versión 2.03.00: Estático/PPK solo se detiene con «Detener» y sigue si se corta el Bluetooth; Rover: hasta 4 casters guardados con nombre; botón atrás pregunta «¿Salir de GeoFix RTK?»; GeoFix F9P: marca corregida sola, radio fija a 38400 solo RTCM, diagnóstico de radio; firmware F9P 3.1.0 (perfil fijo Rover/Base, nombres BaseF9P-/RoverF9P-) también por internet.",
+ "sig": "30460221008d29cb94b4eac7dc556fe544e2a071d371e85defb611af0e6bc3d9638824c454022100a49073609e06d0cad0579f7fb962d219fb434c760e567b6e99e183ca68ccc1a4"
 }
